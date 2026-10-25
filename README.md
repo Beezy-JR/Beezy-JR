@@ -1,16 +1,7 @@
-<!-- Анимированный баннер (адаптивный под тему) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4B0082,100:1E90FF&height=120&section=header&text=Beezy-JR&fontSize=50&fontColor=ffffff&animation=twinkling">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:4B0082,100:000000&height=120&section=header&text=Beezy-JR&fontSize=50&fontColor=ffffff&animation=twinkling">
-    <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4B0082,100:1E90FF&height=120&section=header&text=Beezy-JR&fontSize=50&fontColor=ffffff&animation=twinkling">
-  </picture>
-</p>
-<!-- Если нужна картинка по центру -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Beezy-JR/Beezy-JR/main/my-banner.jpg" alt="My Banner" width="100%" />
 </p>
-<!-- Анимированный текст (печатная машинка) -->
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Beezy+%F0%9F%91%8B;Developer+%7C+Problem+Solver;Let's+build+something+cool+together." alt="Typing SVG" />
