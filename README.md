@@ -6,7 +6,10 @@
     <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4B0082,100:1E90FF&height=120&section=header&text=Beezy-JR&fontSize=50&fontColor=ffffff&animation=twinkling">
   </picture>
 </p>
-
+<!-- Если нужна картинка по центру -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Beezy-JR/Beezy-JR/main/my-banner.jpg" alt="My Banner" width="100%" />
+</p>
 <!-- Анимированный текст (печатная машинка) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
