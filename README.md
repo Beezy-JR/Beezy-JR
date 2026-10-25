@@ -68,14 +68,14 @@ Brief explanation of the project. Keep it honest — no marketing fluff.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Beezy-JR&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=1E90FF&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Beezy-JR&show_icons=true&theme=default&hide_border=true&title_color=4B0082&icon_color=1E90FF">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Beezy-JR&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=1E90FF&text_color=ffffff" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Beezy-JR&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=1E90FF&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Beezy-JR&show_icons=true&theme=default&hide_border=true&title_color=4B0082&icon_color=1E90FF">
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Beezy-JR&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=1E90FF&text_color=ffffff" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Beezy-JR&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=8A2BE2&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Beezy-JR&layout=compact&theme=default&hide_border=true&title_color=4B0082">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beezy-JR&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=8A2BE2&text_color=ffffff" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Beezy-JR&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=8A2BE2&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Beezy-JR&layout=compact&theme=default&hide_border=true&title_color=4B0082">
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Beezy-JR&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=8A2BE2&text_color=ffffff" alt="Top Languages" />
   </picture>
 </p>
 
