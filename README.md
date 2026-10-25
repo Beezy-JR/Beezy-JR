@@ -103,6 +103,9 @@ Brief explanation of the project. Keep it honest — no marketing fluff.
   <a href="https://t.me/Beezy_JR" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
  </a>
+    <a href="https://steamcommunity.com/profiles/76561199811919818/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
   <a href="https://github.com/Beezy-JR" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
