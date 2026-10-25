@@ -32,15 +32,6 @@ SOON..
 
 `Tech` --  `Stack`
 
-**Another Project · Year**
-Brief explanation of the project. Keep it honest — no marketing fluff.
-
-**Impact**
-- What changed because of this
-- Who benefited
-
-`JavaScript` `API` `Pet project`
-
 ---
 
 ### 🧰 Tech Stack
