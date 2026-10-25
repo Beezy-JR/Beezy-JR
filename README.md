@@ -28,14 +28,9 @@ Currently focused on deepening my knowledge in **backend architecture** and **cl
 
 ### 🗂️ Featured Projects
 
-**Project Name · Year**
-Short description of what it does and why it exists. What problem did it solve?
+SOON..
 
-**Impact**
-- Measurable result or lesson learned
-- Another outcome
-
-`Tech` `Stack` `Here`
+`Tech` --  `Stack`
 
 **Another Project · Year**
 Brief explanation of the project. Keep it honest — no marketing fluff.
